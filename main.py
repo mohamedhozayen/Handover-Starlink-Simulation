@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Fri Mar 18 19:30:55 2022
-
 @author: Mohamed Hozayen
 
 22 orbit
